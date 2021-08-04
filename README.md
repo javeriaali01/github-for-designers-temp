@@ -6,3 +6,5 @@ This is a new line.
 This is editing in text editor
 
 I am making edits in this file from my computer.
+
+I'm making a second edit.
